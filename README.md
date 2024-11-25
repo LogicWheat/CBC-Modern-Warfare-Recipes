@@ -2,7 +2,7 @@
 ** 适用版本: Minecraft 1.20.1 **
 ***
 ## KubeJS 文件 使用方法 ##
-> 后缀名为 ".js" 文件
+> 后缀名为 ".js" 的文件
 ### 需要安装 ###
 - KubeJS
 - KubeJS Create
